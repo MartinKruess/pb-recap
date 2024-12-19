@@ -170,7 +170,7 @@ Beispiel:
 "Password: v";
 ```
 
-- überprüfe jeden Buchstaben des Passworts ob es ein Sonderzeichen (!-\_\*) ist
+- überprüfe jeden Buchstaben des Passworts ob es ein Sonderzeichen (`!-_*`) ist
   - Sollte eines der Zeichen ein Sonderzeichen sein, füge 1 weiteren char hinzu
   - Sollte kein Zeichen ein Sonderzeichen sein, sorge dafür das random eines der Sonderzeichen eingesetzt wird
 
